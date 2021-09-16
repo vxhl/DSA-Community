@@ -10,7 +10,7 @@ You can contribute everything DSA related on here. Make your own sub-folder with
 ***Step 1:*** *Fork this repository. This will create a local copy of this repository on your github profile* 
 ![readmeexampleww](https://github.com/vxhl/DSA-Community/blob/main/Images/fork.png)
 
-***Step 2:*** *Go to your forked repository and create a folder with your own name as the folder. Create your own readme profile and stuff, you can introduce yourself in it as well! (Look at my example below).Once done, you will now have the option of creating a Pull Request*
+***Step 2:*** *Go to your forked repository and create a folder with your own name. Create your own readme profile and stuff, you can introduce yourself in it as well! (Look at my example below).Once done, you will now have the option of creating a Pull Request*
 
 ![readmeexample](https://github.com/vxhl/DSA-Community/blob/main/Images/readmeexample.png)
 
