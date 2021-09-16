@@ -7,17 +7,13 @@ You can contribute everything DSA related on here. Make your own sub-folder with
 
 ## 🙌Steps-to-Contribute
 
-### ***Step 1:*** 
-*Fork this repository. This will create a local copy of this repository on your github profile* 
+***Step 1:*** *Fork this repository. This will create a local copy of this repository on your github profile* 
 
-### ***Step 2:*** 
-*Go to the main folder and create a folder with your own name as the folder name. Create your own readme profile and stuff, you can introduce yourself there was as well! (Look at my example below).Once done, you will have now the option of creating a Pull Request*
+***Step 2:*** *Go to the main folder and create a folder with your own name as the folder name. Create your own readme profile and stuff, you can introduce yourself there was as well! (Look at my example below).Once done, you will have now the option of creating a Pull Request*
 
-### ***Step 3:*** 
-*Click on the Option to create a Pull Request. All the changes that have been made in your Local Repository will now be pushed into the Main Repository.*
+***Step 3:*** *Click on the Option to create a Pull Request. All the changes that have been made in your Local Repository will now be pushed into the Main Repository.*
 
-### ***Step 4:*** 
-*Add the necessary details and voila! Your Pull Request has been submitted and will be reviewed by the moderator and merged 😃*
+***Step 4:*** *Add the necessary details and voila! Your Pull Request has been submitted and will be reviewed by the moderator and merged 😃*
 
 ## 💡Help: 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
