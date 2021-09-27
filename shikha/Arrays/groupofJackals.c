@@ -7,6 +7,8 @@
 
 //Output -15
 
+//Time Complexity - O(n)
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
