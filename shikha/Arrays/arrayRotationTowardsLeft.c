@@ -4,7 +4,7 @@
 
 //Output
 //5 1 2 3 4
-
+//Time Complexity- O(n^2)
 
 #include <stdio.h>
 #include <string.h>
